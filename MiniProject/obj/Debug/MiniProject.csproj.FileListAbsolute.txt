@@ -1,0 +1,15 @@
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.csprojResolveAssemblyReference.cache
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.AdminForm.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.ForgetPassword.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.ResetPwd.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.Form1.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.UserInfo.resources
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.Cache
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\hinkeong\Desktop\SAE Project\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
